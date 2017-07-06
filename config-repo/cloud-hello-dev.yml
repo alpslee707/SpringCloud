@@ -1,6 +1,6 @@
 foo : asdasdasdas
-app:
- constant:
+app :
+ constant :
     active : dev
 app:
  constant:
