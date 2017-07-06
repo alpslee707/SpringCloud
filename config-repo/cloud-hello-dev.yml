@@ -1,4 +1,3 @@
-foo : asdasdasdas
 app :
  constant :
     active : dev
