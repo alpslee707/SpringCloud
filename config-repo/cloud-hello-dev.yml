@@ -1,4 +1,2 @@
-app :
- constant :
-    active : dev
-      name : \u8fd9\u662f\u6b63\u5f0f\u7cfb\u7edf
+foo : foo! version 1.0
+name : \u8fd9\u662f\u6b63\u5f0f\u7cfb\u7edf
